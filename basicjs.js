@@ -68,11 +68,11 @@ for(let i=0;i<=Range;i++){
 let i=0
 while(i<=5){
     console.log(i)
-    i++g
+    i++
 }
 
 
-Error and Precedence
+// Error and Precedence
 
 let number=10
 try{
